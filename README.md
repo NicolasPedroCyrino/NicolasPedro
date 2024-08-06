@@ -1,1 +1,8 @@
-# NicolasPedro
+Meu nome é Nicolas Pedro Cyrino
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo :mailbox
+
+nicolaspedrocyrino126@gmail.com
